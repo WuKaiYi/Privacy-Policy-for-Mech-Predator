@@ -122,15 +122,12 @@
 </ul>
 <h2>Security of Your Personal Data</h2>
 <p>The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.</p>
-<h1>Children's Privacy</h1>
-<p>Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.</p>
-<p>If We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use that information.</p>
-<h1>Links to Other Websites</h1>
+
 
 <h2>The right to say no to the sale of Personal Data (opt-out).</h2>
-<h1>You have the right to direct Us to not sell Your personal information. To submit an opt-out request please contact Us.</h1>
+<p>You have the right to direct Us to not sell Your personal information. To submit an opt-out request please contact Us.</p>
 <h2>The right to delete Personal Data.</h2>
-<h1>You have the right to request the deletion of Your Personal Data, subject to certain exceptions. Once We receive and confirm Your request, We will delete (and direct Our Service Providers to delete) Your personal information from our records, unless an exception applies. We may deny Your deletion request if retaining the information is necessary for Us or Our Service Providers to:
+<p>You have the right to request the deletion of Your Personal Data, subject to certain exceptions. Once We receive and confirm Your request, We will delete (and direct Our Service Providers to delete) Your personal information from our records, unless an exception applies. We may deny Your deletion request if retaining the information is necessary for Us or Our Service Providers to:
 Complete the transaction for which We collected the personal information, provide a good or service that You requested, take actions reasonably anticipated within the context of our ongoing business relationship with You, or otherwise perform our contract with You.
 Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity, or prosecute those responsible for such activities.
 Debug products to identify and repair errors that impair existing intended functionality.
@@ -139,7 +136,17 @@ Comply with the California Electronic Communications Privacy Act (Cal. Penal Cod
 Engage in public or peer-reviewed scientific, historical, or statistical research in the public interest that adheres to all other applicable ethics and privacy laws, when the information's deletion may likely render impossible or seriously impair the research's achievement, if You previously provided informed consent.
 Enable solely internal uses that are reasonably aligned with consumer expectations based on Your relationship with Us.
 Comply with a legal obligation.
-Make other internal and lawful uses of that information that are compatible with the context in which You provided it.</h1>
+Make other internal and lawful uses of that information that are compatible with the context in which You provided it.</p>
+
+
+
+
+<h1>Children's Privacy</h1>
+<p>Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.</p>
+<p>If We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use that information.</p>
+<h1>Links to Other Websites</h1>
+
+
 
 
 <p>Our Service may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy of every site You visit.</p>
