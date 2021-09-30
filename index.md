@@ -127,9 +127,9 @@
 <p>If We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use that information.</p>
 <h1>Links to Other Websites</h1>
 
-<p>The right to say no to the sale of Personal Data (opt-out).</p> 
+<h2>The right to say no to the sale of Personal Data (opt-out).</h2>
 <h1>You have the right to direct Us to not sell Your personal information. To submit an opt-out request please contact Us.</h1>
-<p>The right to delete Personal Data.</p> 
+<h2>The right to delete Personal Data.</h2>
 <h1>You have the right to request the deletion of Your Personal Data, subject to certain exceptions. Once We receive and confirm Your request, We will delete (and direct Our Service Providers to delete) Your personal information from our records, unless an exception applies. We may deny Your deletion request if retaining the information is necessary for Us or Our Service Providers to:
 Complete the transaction for which We collected the personal information, provide a good or service that You requested, take actions reasonably anticipated within the context of our ongoing business relationship with You, or otherwise perform our contract with You.
 Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity, or prosecute those responsible for such activities.
