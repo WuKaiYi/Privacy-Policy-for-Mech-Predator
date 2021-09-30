@@ -127,16 +127,7 @@
 <h2>The right to say no to the sale of Personal Data (opt-out).</h2>
 <p>You have the right to direct Us to not sell Your personal information. To submit an opt-out request please contact Us.</p>
 <h2>The right to delete Personal Data.</h2>
-<p>You have the right to request the deletion of Your Personal Data, subject to certain exceptions. Once We receive and confirm Your request, We will delete (and direct Our Service Providers to delete) Your personal information from our records, unless an exception applies. We may deny Your deletion request if retaining the information is necessary for Us or Our Service Providers to:
-Complete the transaction for which We collected the personal information, provide a good or service that You requested, take actions reasonably anticipated within the context of our ongoing business relationship with You, or otherwise perform our contract with You.
-Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity, or prosecute those responsible for such activities.
-Debug products to identify and repair errors that impair existing intended functionality.
-Exercise free speech, ensure the right of another consumer to exercise their free speech rights, or exercise another right provided for by law.
-Comply with the California Electronic Communications Privacy Act (Cal. Penal Code § 1546 et. seq.).
-Engage in public or peer-reviewed scientific, historical, or statistical research in the public interest that adheres to all other applicable ethics and privacy laws, when the information's deletion may likely render impossible or seriously impair the research's achievement, if You previously provided informed consent.
-Enable solely internal uses that are reasonably aligned with consumer expectations based on Your relationship with Us.
-Comply with a legal obligation.
-Make other internal and lawful uses of that information that are compatible with the context in which You provided it.</p>
+<p>You have the right to request the deletion of Your Personal Data, subject to certain exceptions. Once We receive and confirm Your request, We will delete (and direct Our Service Providers to delete) Your personal information from our records, unless an exception applies.</p>
 
 
 
